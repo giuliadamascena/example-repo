@@ -1,6 +1,6 @@
 # Running as a hobby and its benefits
 
-** using semantic HTML I have created an website to showcase running as a hobby and its benefits on the body **
+**using semantic HTML I have created an website to showcase running as a hobby and its benefits on the body**
 1. First created the basic HTML code layout
 2. to implement the sections, it was used code such as <header>,<main> and <footer>
 3. for more distinction, I used <article> and <aside>
